@@ -3,7 +3,7 @@
 
 **Full-Stack Developer | AI/NLP Systems | React · Node.js · Python · FastAPI**
 
-I'm an MCA student and Software Developer at **Fastship**, where I build scalable web application modules and REST APIs using React.js and Node.js/Express.js in an Agile/Scrum environment.
+I'm an Software Developer at **Fastship**, where I build scalable web application modules and REST APIs using React.js and Node.js/Express.js in an Agile/Scrum environment.
 
 I enjoy working at the intersection of full-stack development and applied AI — building products that use LLM APIs (OpenAI GPT-4o) alongside traditional NLP tooling like spaCy, NLTK, and scikit-learn.
 
